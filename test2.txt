@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B8AB-4F0A
+
+ Directory of C:\Users\Gurusekhar\Desktop\Git\MyFolder
+
+08-04-2020  12:11    <DIR>          .
+08-04-2020  12:11    <DIR>          ..
+08-04-2020  11:30                 0 index.html
+08-04-2020  11:34                 7 test1.txt
+08-04-2020  12:11                 0 test2.txt
+               3 File(s)              7 bytes
+               2 Dir(s)  346,775,015,424 bytes free
